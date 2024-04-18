@@ -1,0 +1,14 @@
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\bin\Debug\net8.0\monul8_NIM.exe
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\bin\Debug\net8.0\monul8_NIM.deps.json
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\bin\Debug\net8.0\monul8_NIM.runtimeconfig.json
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\bin\Debug\net8.0\monul8_NIM.dll
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\bin\Debug\net8.0\monul8_NIM.pdb
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.AssemblyInfoInputs.cache
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.AssemblyInfo.cs
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.csproj.CoreCompileInputs.cache
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.dll
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\refint\monul8_NIM.dll
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.pdb
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\monul8_NIM.genruntimeconfig.cache
+C:\Users\nizar\Documents\Telkom\Matkul Sem. 4\kpl\monul8_NIM\monul8_NIM\obj\Debug\net8.0\ref\monul8_NIM.dll
